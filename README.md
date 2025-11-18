@@ -8,7 +8,7 @@
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
-Prepwise is an intelligent job interview preparation platform that uses **Vapi AI**, **Google Gemini**, and **Next.js** to simulate realistic voice-based interview sessions. Users can practice job interviews with an AI interviewer, receive personalized feedback, track past sessions, and continually improve their performance.
+EchoHire is an intelligent job interview preparation platform that uses **Vapi AI**, **Google Gemini**, and **Next.js** to simulate realistic voice-based interview sessions. Users can practice job interviews with an AI interviewer, receive personalized feedback, track past sessions, and continually improve their performance.
 
 ---
 
